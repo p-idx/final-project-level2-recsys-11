@@ -1,4 +1,4 @@
-## [[개인 회고록 및 동료 피드백 키워드]](https://github.com/p-idx/final-project-level2-recsys-11/wiki/%EC%96%91%EC%84%B1%ED%9B%88-%EA%B0%9C%EC%9D%B8-%ED%9A%8C%EA%B3%A0)
+## [[개인 회고 및 동료 피드백 키워드]](https://github.com/p-idx/final-project-level2-recsys-11/wiki/%EC%96%91%EC%84%B1%ED%9B%88-%EA%B0%9C%EC%9D%B8-%ED%9A%8C%EA%B3%A0)
 
 # Web4Rec
 ![image](https://user-images.githubusercontent.com/67850665/217753482-803d8c8f-df2b-47c8-bc50-328b601cf93d.png)
